@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piotr Raczyła</h1>
 <h3 align="center">An experience seeking student from Poland</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNvNnFwNXl4NXFtNHhxajA5eWdpajlqOWFxcmVpZ3E3bTlnMTEwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jendzar&label=Profile%20views&color=0e75b6&style=flat" alt="jendzar" /> </p>
 
